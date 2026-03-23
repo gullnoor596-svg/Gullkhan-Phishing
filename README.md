@@ -43,8 +43,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Now go to cloned directory and run `zphisher.sh` -
   ```
-  $ cd zphisher
-  $ bash zphisher.sh
+  $ cd Gullkhan-Phishing
+  $ bash khan.sh
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
