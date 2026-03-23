@@ -41,7 +41,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   git clone https://github.com/gullnoor596-svg/Gullkhan-Phishing.git
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Now go to cloned directory and run `khan.sh` -
   ```
   $ cd Gullkhan-Phishing
   $ bash khan.sh
